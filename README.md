@@ -7,3 +7,5 @@ Scripts used in the paper titled 'Three-Dimensional Motion Capture Data of a Mov
 
 #### Tech_val_ROM_new.m
 
+## Citation
+Zhao, X., Ross, G., Dowling, B. et al. Three-Dimensional Motion Capture Data of a Movement Screen from 183 Athletes. Sci Data 10, 235 (2023). https://doi.org/10.1038/s41597-023-02082-6
